@@ -4,7 +4,6 @@
 + MySQL    =  Database
 + CSS      = Style
 + JavaScript
-+ EJS      = Templating
 
 # TODO 
 
@@ -16,20 +15,15 @@
   + path
   + router
   + body-parser
-  + EJS
   + nodemon
 
 + Setup index.js
 + Setup routes.js
-+ Create View Directory
-  + layout.ejs
-  + Setup index.ejs
-  + Setup header.ejs
-  + Setup footer.ejs
-  + Setup functional components
-    + add_todo
-    + todo_table
++ Create public Directory
+  + todo.html
+  + css directory
+    + style.css
+  + javascript directory
+    + script.css
 
 + Setup Database and Table
-+ Setup script.js
-
